@@ -2,6 +2,13 @@ package javaBasics;
 
 public class LoopsDemo {
 
+	
+//	lkjflaslkdjfd
+//	asf
+//	dsaf
+//	a
+//	fdsa
+//	f
 	public static void main(String[] args) {
 
 
